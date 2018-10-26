@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.pixabay_picture {
+  max-height: 200px;
+}
+.royalFlush {
+  display: flex;
+  justify-content: space-between;
+}
